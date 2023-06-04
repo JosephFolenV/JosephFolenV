@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! My name is Joseph Folen and I am a Junior Computer Engineering student. I am currently learning web development with the goal of understanding all levels of the development stack. I hope to grow these skills beyond proficiency so that I can contribute to all aspects of a project and improve user experiences. I'm looking for opportunities to grow my skills both in web development and low level procedural programming through hands-on experience. 
+
+📧 Email: josephfolenv@gmail.com
