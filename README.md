@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Joseph Folen and I am a Junior Computer Engineering student. I have been involved in multiple projects this year on my journey to grow my skills across different tech stacks. I'm looking for opportunities to grow my skills in software development and hardware design through hands-on experience, so that I can use my creativity to improve the world however I can.
+Hi! My name is Joseph Folen and I am a Senior Computer Engineering student. Through my education I have learned many software development skills and have become a proficient programmer with many languages; however, I am especially interested in custom IC design with RTL and embedded programming.
 
 📧 Email: josephfolenv@gmail.com
