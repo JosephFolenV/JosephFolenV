@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Joseph Folen and I am a Senior Computer Engineering student. Through my education I have learned many software development skills and have become a proficient programmer with many languages; however, I am especially interested in custom IC design with RTL and embedded programming.
+I currently work as a graduate assistant at the University of Arkansas' TruLogic lab. My research interests include asynchronous circuit design and digital systems design. I am currently researching strategies for mitigating single event latch-up in asynchronous digital systems. 
 
-📧 Email: josephfolenv@gmail.com
+Through research projects I have acquired experience with multiple design flows on the way from front-end RTL description to GDSII and post-layout verification. Developed event-driven VerilogA testbenches to verify asynchronous circuits at transistor-level. Gained experience in cell layout using TSMC 65NM and GF12LP nodes. Performed IR drop analysis on full-chip designs using Cadence Voltus before tapeout. Wrote and modified TCL scripts for clock tree synthesis and other implementation steps for use wIth Cadence Innovus. Performed post-layout verification on cells in TSMC 65NM and GF12LP using Siemens Calibre DRC/LVS.
